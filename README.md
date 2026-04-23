@@ -33,7 +33,7 @@ Git
 Installation
 Clone the repository
 
-git clone https://github.com/your-username/mlbb-platform.git
+git clone https://github.com/Unity/mlbb-platform.git
 cd mlbb-platform
 Install dependencies
 
