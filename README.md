@@ -1,5 +1,4 @@
-width="2280" height="1420" alt="MLBB_System_tanked_handleAI_BOT" src="https://github.com/user-attachments/assets/97c1f8ef-96de-475a-8501-7d08ebacf035" />MLBB queries
-
+<img width="1280" height="720" alt="MLBB_System_tanked_handleAI_BOT" src="https://github.com/user-attachments/assets/b1b2151f-dfb1-44ca-af17-fe8252a57c52" />
 
 # Unity
 Unity Devloyment combine code gaming 1.mobile lagend , Point blank garena , free fire , gaming RPG 
