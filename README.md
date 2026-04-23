@@ -8,6 +8,16 @@ A comprehensive Mobile Legends Bang Bang gaming community platform featuring AI-
 https://nmap.org/
 MLBB Platform React Node.js Vite
 
+list gaming yang lagi hotspot indehoy bohaydeuh pkonya goyang majukenamundur kena lihat scroolldown hir : 
+https://store.steampowered.com/remoteplay
+https://www.dota2.com/home
+https://www.mobilelegends.com/
+https://pubg.com/fr/
+https://www.garena.sg/
+
+menghilangkan dosa dari maksiat Tolong dong bahasa silsilah uyut diragunan jangan dibawa bawa ke arena geam , untuk kalian yang selalu mempesona kuylah 
+
+
 ✨ Features
 🎯 Core Features
 🏠 Home Dashboard - Welcome page with platform overview
