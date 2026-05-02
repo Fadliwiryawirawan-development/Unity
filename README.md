@@ -1,5 +1,80 @@
 <img width="1280" height="720" alt="MLBB_System_tanked_handleAI_BOT" src="https://github.com/user-attachments/assets/b1b2151f-dfb1-44ca-af17-fe8252a57c52" />
 
+
+friebdly hir , sir ishan discord gaming stack 
+ishandutta2007/README.md
+Hi there 👋
+
+
+A techie passionate about AI & Blockchain
+One of Top 10 active github users from India [https://committers.top/india_private]
+One of Top 30 Spoj users from India [SPOJ](https://www.spoj.com/ranks/users/IN/)
+One of Top 500 stackoverflow users from India [https://data.stackexchange.com/stackoverflow/query/53058/top-users-by-country#resultSets]
+One of Top 600 math.stackexchange users from India [https://data.stackexchange.com/math/query/53058/top-users-by-country]
+committers.top badge
+
+trophy
+
+aryashah2k 
+
+
+😄 I have interests in HPC/Generative AI/Web3/RPA
+🔭 I’m currently working on ChatGPT integrations
+🌱 I’m currently learning Langchain and Mediachain
+👯 I’m looking to collaborate on ChatGPT/AI/Blockchain
+Ishan 
+
+Twitter              Dev.to       Ko-fi       Free Stuff
+
+
+total stars total stars followers views
+
+
+GitHub Star 2023
+
+🌠 Top Sponsors
+$5+/month
+typesense
+More about my sponsorship tiers
+
+🛠️ My Favorite Tools
+📊 Github Stats and Activity
+🏷️ Holopin Badges
+💻 My favorite tools and technologies
+icon
+React	icon
+Python	icon
+JavaScript	icon
+C++	icon
+Webpack	icon
+MySQL	icon
+TypeScript	icon
+AWS	icon
+C#
+icon
+Django	icon
+Github	Git
+Git	Laravel
+Laravel	HTML5
+HTML5	css
+CSS	bootstrap
+Bootstrap	tailwind
+Tailwind	jQuery
+jQuery
+MongoDB
+MongoDB	Nodejs
+Nodejs	PHP
+PHP	VsCode
+VsCode	WordPress
+WordPress	Vue
+Vue	Sass
+Sass	MySQL
+GraphQL	PostgreSQL
+PostgreSQL
+
+
+
+
 # Unity
 Unity Devloyment combine code gaming 1.mobile lagend , Point blank garena , free fire , gaming RPG 
 🎮 MLBB Platform
