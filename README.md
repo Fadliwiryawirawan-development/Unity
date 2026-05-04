@@ -2,7 +2,26 @@
 
 
 
+Checkpoint-Computer -Description "https://play.google.com/store/apps/details?id=com.shopee.id&hl=en-id" -RestorePointType APPLICATION_UNINSTALL -Debug Checkpoint-Computer : Access denied At line:1 char:1
 
+Checkpoint-Computer -Description "https://play.google.com/store/apps/ ...
+  + CategoryInfo          : InvalidOperation: (:) [Checkpoint-Computer], Management 
+ Exception
+  + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands 
+ .CheckpointComputerCommand
+
+
+
+Checkpoint-Computer -Description "https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en-US" -RestorePointType APPLICATION_UNINSTALL -Debug Checkpoint-Computer : Access denied At line:1 char:1
+
+Checkpoint-Computer -Description "https://play.google.com/store/apps/ ...
+  + CategoryInfo          : InvalidOperation: (:) [Checkpoint-Computer], Management 
+ Exception
+  + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands 
+ .CheckpointComputerCommand
+
+
+Checkpoint-Computer -Description https://fadliwiryawirawan@google.com/ -RestorePointType CANCELLED_OPERATION
 
 # Unity
 Unity Devloyment combine code gaming 1.mobile lagend , Point blank garena , free fire , gaming RPG 
