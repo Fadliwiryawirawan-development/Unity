@@ -55,6 +55,14 @@ Installation
 Clone the repository
 
 git clone https://github.com/Unity/mlbb-platform.git
+git clone https://github.com/Unity/floopy-playtime-platform.git
+git clone https://github.com/Unity/Pointblank-platform.git
+git clone https://github.com/Unity/Pubg-platform.git
+git clone https://github.com/Unity/PES-playstations-platform.git
+git clone https://github.com/Unity/Topics/arcade-platform.git
+
+
+
 cd mlbb-platform
 Install dependencies
 
